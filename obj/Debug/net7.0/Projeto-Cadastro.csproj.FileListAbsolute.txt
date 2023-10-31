@@ -1,0 +1,14 @@
+C:\Users\Yasmin Linda\Desktop\Projetos-Programação\Projeto-Cadastro\bin\Debug\net7.0\Projeto-Cadastro.exe
+C:\Users\Yasmin Linda\Desktop\Projetos-Programação\Projeto-Cadastro\bin\Debug\net7.0\Projeto-Cadastro.deps.json
+C:\Users\Yasmin Linda\Desktop\Projetos-Programação\Projeto-Cadastro\bin\Debug\net7.0\Projeto-Cadastro.runtimeconfig.json
+C:\Users\Yasmin Linda\Desktop\Projetos-Programação\Projeto-Cadastro\bin\Debug\net7.0\Projeto-Cadastro.dll
+C:\Users\Yasmin Linda\Desktop\Projetos-Programação\Projeto-Cadastro\bin\Debug\net7.0\Projeto-Cadastro.pdb
+C:\Users\Yasmin Linda\Desktop\Projetos-Programação\Projeto-Cadastro\obj\Debug\net7.0\Projeto-Cadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasmin Linda\Desktop\Projetos-Programação\Projeto-Cadastro\obj\Debug\net7.0\Projeto-Cadastro.AssemblyInfoInputs.cache
+C:\Users\Yasmin Linda\Desktop\Projetos-Programação\Projeto-Cadastro\obj\Debug\net7.0\Projeto-Cadastro.AssemblyInfo.cs
+C:\Users\Yasmin Linda\Desktop\Projetos-Programação\Projeto-Cadastro\obj\Debug\net7.0\Projeto-Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin Linda\Desktop\Projetos-Programação\Projeto-Cadastro\obj\Debug\net7.0\Projeto-Cadastro.dll
+C:\Users\Yasmin Linda\Desktop\Projetos-Programação\Projeto-Cadastro\obj\Debug\net7.0\refint\Projeto-Cadastro.dll
+C:\Users\Yasmin Linda\Desktop\Projetos-Programação\Projeto-Cadastro\obj\Debug\net7.0\Projeto-Cadastro.pdb
+C:\Users\Yasmin Linda\Desktop\Projetos-Programação\Projeto-Cadastro\obj\Debug\net7.0\Projeto-Cadastro.genruntimeconfig.cache
+C:\Users\Yasmin Linda\Desktop\Projetos-Programação\Projeto-Cadastro\obj\Debug\net7.0\ref\Projeto-Cadastro.dll
